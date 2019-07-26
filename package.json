@@ -1,0 +1,28 @@
+{
+  "name": "Build-RestFul-API",
+  "version": "1.0.0",
+  "description": "This Is New Project For Learn How To Build Restful API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymanEldawy/Build-RestFul-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AymanEldawy/Build-RestFul-API/issues"
+  },
+  "homepage": "https://github.com/AymanEldawy/Build-RestFul-API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.6",
+    "nodemon": "^1.19.1",
+    "save": "^2.4.0"
+  }
+}
